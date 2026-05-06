@@ -1,4 +1,4 @@
- export default function learnpage() {
+ export default function task2page() {
     return (
     <div className=" bg-white h-screen flex gap-4 justify-center items-center flex-col">
         <div className=" flex gap-4 justify-center">
