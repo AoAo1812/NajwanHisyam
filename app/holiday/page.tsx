@@ -2,10 +2,10 @@ export default function holidaypage() {
     return(
         <div className="bg-gray-300 h-screen flex gap-4 justify-center items-center flex-col text-black">
 
-                <div className="bg-white h-110 w-80 flex p-5 rounded-4xl flex-col gap-4">
+                <div className="bg-white h-110 w-80 flex p-4 rounded-4xl flex-col gap-4">
 
                     <div className="flex justify-center ">
-                        <img src="pemandangan.webp"className="h-60 w-70 items-center rounded-4xl"></img>
+                        <img src="pemandangan.webp"className="h-60 w-78 items-center rounded-4xl"></img>
                     </div>
 
                     <div className="flex flex-col">
